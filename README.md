@@ -1,2 +1,2 @@
-#Task 34
+Task 34
 PySpark CI with GitHub Actions
